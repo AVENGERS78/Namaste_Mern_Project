@@ -100,7 +100,7 @@ export default function LogIn() {
          <img src={Namaste_Logo} alt="logo" className="welcome-logo" />
        </div>
        {showlogin && (
-          <div className="logIn-box">
+          <div className="login-box">
              <p className="login-text"> Log In</p>
              <p className="login-text">Log-In to your Account</p>
              <TextField 
