@@ -200,8 +200,32 @@ We'd love to have your helping hand on `create-react-app`! See [CONTRIBUTING.md]
 
 Create React App is a community maintained project and all contributors are volunteers. If you'd like to support the future development of Create React App then please consider donating to our [Open Collective](https://opencollective.com/create-react-app).
 
+## <a name="authors"> Authors:</a>
+
+*1. SHIVENDRA BAJPAI*
+- Sec: G
+- Batch: 2 (Second)
+
+*2. SAURABH SINGH*
+- Sec: G
+- Batch: 2 (Second)
+
+*3. SHIV KUMAR MISHRA*
+- Sec: G
+- Batch: 3 (Third)
+
+*4. SHIVAM SINGH RAWAT*
+- Sec: G
+- Batch: 3 (Third)
+
+## <a name="tech-stack"> Tech Stack</a>
+
+- Next.js
+- TypeScript
+- Liveblocks
+- Fabric.js
+- Shadcn
+- Tailwind CSS
 
 
-## License
 
-Create React App is open source software [licensed as MIT](https://github.com/facebook/create-react-app/blob/main/LICENSE). The Create React App logo is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
