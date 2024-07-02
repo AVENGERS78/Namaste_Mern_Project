@@ -217,15 +217,3 @@ Create React App is a community maintained project and all contributors are volu
 *4. SHIVAM SINGH RAWAT*
 - Sec: G
 - Batch: 3 (Third)
-
-## <a name="tech-stack"> Tech Stack</a>
-
-- Next.js
-- TypeScript
-- Liveblocks
-- Fabric.js
-- Shadcn
-- Tailwind CSS
-
-
-
